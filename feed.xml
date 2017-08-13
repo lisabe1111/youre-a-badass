@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>youre-a-badass</title>
+    <link href="http://youreabadass.com/feed.xml" rel="self" />
+    <link href="http://youreabadass.com" />
+    <updated>1969-12-31T19:00:00-05:00</updated>
+    <author>
+        <name>Lisa</name>
+    </author>
+    <id>http://youreabadass.com</id>
+
+</feed>
